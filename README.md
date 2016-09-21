@@ -7,6 +7,14 @@ The current source code is ugly, I will push the code after the first developing
 Alternatively, you could review the page code through the "view source code" in browser.  
   
   
-## Test view
-##### Setting:
-![setting](https://lh3.googleusercontent.com/1FygpvjFDbbGs0fmxiMZKyhb15BapE6gzV1hWvjUeGT4ZRNMf8Vshbdjw6xY0Ba8Me1P3USTr7lt_JU=w3360-h1906-rw) 
+## Design  
+![design](https://github.com/curme/NeuralFintech/blob/master/doc/images/design.jpg) 
+  
+
+
+## Test view  
+#### Index:  
+![index](https://github.com/curme/NeuralFintech/blob/master/doc/images/index.png)  
+#### Setting:
+![setting](https://github.com/curme/NeuralFintech/blob/master/doc.images/setting-model.png)  
+

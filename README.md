@@ -16,5 +16,5 @@ Alternatively, you could review the page code through the "view source code" in 
 #### Index:  
 ![index](https://github.com/curme/NeuralFintech/blob/master/doc/images/index.png)  
 #### Setting:
-![setting](https://github.com/curme/NeuralFintech/blob/master/doc.images/setting-model.png)  
+![setting](https://github.com/curme/NeuralFintech/blob/master/doc/images/setting-model.png)  
 
